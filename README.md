@@ -8,3 +8,5 @@
 <img width="807" height="676" alt="image" src="https://github.com/user-attachments/assets/a957b672-d7ba-4e38-af91-63aa6ba8af6c" />
 <h3>Different types of WAN protocols</h3>
 <img width="1140" height="717" alt="image" src="https://github.com/user-attachments/assets/ee989b66-c95c-4267-8912-661d4ce94bb6" />
+<h3>IP VLSM</h3>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1d5ae2eb-68ba-4c2c-8a11-7f6930473419" />
