@@ -18,6 +18,9 @@
 <img width="811" height="625" alt="image" src="https://github.com/user-attachments/assets/72f8de0b-7a80-4ae9-9e26-751261c3e812" />
 <h3>Nấm Mộc Nhung</h3>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ab9d25c8-486b-4582-8c7f-7ce77ec2c751" />
+<h3>VLAN</h3>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b175b194-efd2-4020-b789-ac626c86e908" />
+
 
 
 
