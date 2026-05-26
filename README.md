@@ -20,6 +20,9 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ab9d25c8-486b-4582-8c7f-7ce77ec2c751" />
 <h3>VLAN</h3>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b175b194-efd2-4020-b789-ac626c86e908" />
+<h3>Citizen watch</h3>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/27c21552-b912-419e-bd1c-bf26293852c0" />
+
 
 
 
