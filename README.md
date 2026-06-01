@@ -34,6 +34,9 @@
 <img width="772" height="651" alt="image" src="https://github.com/user-attachments/assets/a913c97f-a02a-4a53-95bf-1d1677c0135e" />
 <h3>DTE and DCE in networking</h3>
 <img width="1162" height="690" alt="image" src="https://github.com/user-attachments/assets/07e2fbd4-d14e-4196-bcbd-72354f47579e" />
+<h3>Connection between DTEs</h3>
+<img width="997" height="465" alt="image" src="https://github.com/user-attachments/assets/e15934ab-6f4c-4d62-a5e3-3ee36dcdcbe9" />
+
 
 
 
