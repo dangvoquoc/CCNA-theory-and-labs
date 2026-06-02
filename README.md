@@ -42,6 +42,9 @@
 <img width="746" height="875" alt="image" src="https://github.com/user-attachments/assets/35f2c08f-f56c-49f2-8b75-0ef01f320dc5" />
 <h3>CHAP Authentication configuration</h3>
 <img width="780" height="438" alt="image" src="https://github.com/user-attachments/assets/ec4b4ff2-351a-4827-9e15-f4879ce71352" />
+<h3>Wireshark nightmare 1 thời, chả hiểu sao h mình theo network@@</h3>
+<img width="744" height="692" alt="image" src="https://github.com/user-attachments/assets/7d05be30-4ef0-4e50-8467-6345cef0df69" />
+
 
 
 
