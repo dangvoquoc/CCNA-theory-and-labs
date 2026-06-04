@@ -1,6 +1,9 @@
 <h2> CCNA theory and labs <h2>
 <h3> I'll show what i have learned through my CCNA journey</h3>
 <h3>Introduction about network devices, it's written in Vietnamese bro ^^</h3>
+<p>Các giao thức ở lớp Liên kết dữ liệu của mạng WAN mô tả về cách thức mà gói dữ liệu được vận chuyển giữa các hệ thống trên một đường truyền dữ liệu. Các giao thức này được thiết kế cho các dịch vụ chuyển mạch điểm-đến-điểm, đa điểm, đa truy nhập.</p>
+<p>Các tiêu chuẩn của mạng WAN được định nghĩa và quản lý bởi các tổ chức quốc tế sau:</p>
+<li>Liên hiệp viễn thông quốc tế - lĩnh vực tiêu chuẩn viễn thông - ITUT (International Telecommunication Union - Telecommunication Standardization Sector), trước đây là Ủy ban cố vấn điện thoại và điện tín quốc tế - CCITT (Consultative Commitee for Internation Telegraph and Telephone).</li>
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/2fb4c651-4e87-417a-9afa-254c11238d18" />
 <h3>We have components of a router here</h3>
 <img width="858" height="829" alt="image" src="https://github.com/user-attachments/assets/8cd0ff87-44a9-4d9d-bd87-597a3d7050d3" />
