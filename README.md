@@ -46,6 +46,9 @@
 <img width="744" height="692" alt="image" src="https://github.com/user-attachments/assets/7d05be30-4ef0-4e50-8467-6345cef0df69" />
 <h3>ISDN services, vẫn chưa hiểu bản chất ISDN với PPP và HDLC</h3>
 <img width="846" height="490" alt="image" src="https://github.com/user-attachments/assets/08b1134e-e24c-48ae-af7a-5fd87d221592" />
+<h3>DDR Services Configuration</h3>
+<img width="1115" height="616" alt="image" src="https://github.com/user-attachments/assets/3d716fac-6a77-4c25-a43f-69116db8f342" />
+
 
 
 
