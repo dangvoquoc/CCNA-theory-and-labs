@@ -4,7 +4,6 @@
 <p align="center">
   <img margin:auto; display:block; width="452" height="159" alt="image" src="https://github.com/user-attachments/assets/2a147d54-17a8-4693-bae9-c5f97d96cd89" />
 </p>
-</style>
 <p>Các giao thức ở lớp Liên kết dữ liệu của mạng WAN mô tả về cách thức mà gói dữ liệu được vận chuyển giữa các hệ thống trên một đường truyền dữ liệu. Các giao thức này được thiết kế cho các dịch vụ chuyển mạch điểm-đến-điểm, đa điểm, đa truy nhập.</p>
 <p>Các tiêu chuẩn của mạng WAN được định nghĩa và quản lý bởi các tổ chức quốc tế sau:</p>
 <ul>
